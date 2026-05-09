@@ -1,0 +1,3 @@
+--- BẮT ĐẦU KIỂM THỨ ---
+Test Case 1: PASS
+Test Case 2: FAIL
