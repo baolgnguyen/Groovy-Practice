@@ -1,4 +1,4 @@
-Name,Position,Office,Age,StartDate,Salary
+name,position,office,age,startDate,salary
 Thor Walton,Developer,New York,61,11/08/2013,98.0
 Quinn Flynn,Support Lead,Edinburgh,22,03/03/2013,342.0
 Jennifer Acosta,Junior Javascript Developer,Edinburgh,43,01/02/2013,75.0
